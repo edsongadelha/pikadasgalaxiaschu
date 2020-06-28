@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/JfvcNWz.png" group-title="Filmes Séries",[I][B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxNOTICIARIOS
+<layouttype>thumbnail</layouttype>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/XXDQC6W.png" group-title="Filmes Séries",[I][B][COLOR yellow] Video De Intrução Para Torrents [COLOR lime][[COLOR blue] Click Aqui [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+https://www.gadrive.com/d/FYVRi&type=1
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/71breqg.png" group-title="Filmes Séries",[I][B][COLOR yellow] Channel Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+<externallink>https://canaisgratis.eu/</externallink>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
+https://t.me/addonpikachu
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]1" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS NOTÍCIAS",[I][B][COLOR blue]BAND NEWS HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]1
+http://195.181.163.183:2200/PY-N/Band_News_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS NOTÍCIAS",[I][B][COLOR blue]BAND NEWS HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+https://evpp.mm.uol.com.br:443/geob_band/bandnewstv/chunklist_w716639383.m3u8
+
+#EXTINF:-1 tvg-id="CNN.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS NOTÍCIAS",[I][B][COLOR blue]CNN BRASIL HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+https://streaming.cnnbrasil.com.br:443/cnndigital_mainOutput3.m3u8
+
+#EXTINF:-1 tvg-id="CNN.br" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS NOTÍCIAS",[I][B][COLOR blue]CNN BRASIL SD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+https://streaming.cnnbrasil.com.br:443/cnndigital_mainOutput4.m3u8
+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS NOTÍCIAS",[I][B][COLOR blue]GLOBO NEWS HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Globo_News_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS NOTÍCIAS",[I][B][COLOR blue] RECORD NEWS HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews.pt" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS NOTÍCIAS",[I][B][COLOR blue]RAI NEWS 24 IT[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+https://rainews1-live.akamaized.net:443/hls/live/598326/rainews1/rainews1/../../../598326/rainews1/rainews1/rainews_1800/chunklist.m3u8

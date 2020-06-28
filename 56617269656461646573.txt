@@ -1,0 +1,68 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/JfvcNWz.png" group-title="Filmes Séries",[I][B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxVARIEDADES
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<layouttype>thumbnail</layouttype>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/XXDQC6W.png" group-title="Filmes Séries",[I][B][COLOR yellow] Video De Intrução Para Torrents [COLOR lime][[COLOR blue] Click Aqui [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+https://www.gadrive.com/d/FYVRi&type=1
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/71breqg.png" group-title="Filmes Séries",[I][B][COLOR yellow] Channel Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+<externallink>https://canaisgratis.eu/</externallink>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
+https://t.me/addonpikachu
+
+
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS MUSICA",[I][B][COLOR blue]BIS HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/BIS_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS MUSICA",[I][B][COLOR blue]MTV HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/MTV_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="MusicBox.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS MUSICA",[I][B][COLOR blue]MULTISHOW HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Multishow_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="MusicBox.br" tvg-name="MUSIC BOX  HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS MUSICA",[I][B][COLOR blue]MUSIC BOX HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Music_Box_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="Vh1MegaHits" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS MUSICA",[I][B][COLOR blue]VH1  HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/VH1_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="Vh1MegaHits" tvg-name="VH1 MEGA HITS HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS MUSICA",[I][B][COLOR blue]VH1 MEGA HITS HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/BR/vh1megahits-br/index.m3u8?token=RED_N3q99xLywZXxOjaVIN7eQQ==,1592024258.0469580283
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]ARTE 1 HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Arte_1_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]COMEDY CENTRAL HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Comedy_Central_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]CURTA! HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Curta_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]E! HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/E_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]FOOD NETWORK HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Food_Network_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]GNT HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/GNT_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]LIFETIME HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Lifetime_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]MAIS GLOBOSAT HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Mais_Globosat_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="PrimeBox.br" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]PRIME BOX BRAZIL HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Prime_Box_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]TLC HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/TLC_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS VARIEDADES",[I][B][COLOR blue]VIVA HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Viva_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283

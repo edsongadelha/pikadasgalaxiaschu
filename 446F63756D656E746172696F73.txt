@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/JfvcNWz.png" group-title="Filmes Séries",[I][B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxDOCUMENTARIOS
+<layouttype>thumbnail</layouttype>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/XXDQC6W.png" group-title="Filmes Séries",[I][B][COLOR yellow] Video De Intrução Para Torrents [COLOR lime][[COLOR blue] Click Aqui [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+https://www.gadrive.com/d/FYVRi&type=1
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/71breqg.png" group-title="Filmes Séries",[I][B][COLOR yellow] Channel Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+<externallink>https://canaisgratis.eu/</externallink>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
+https://t.me/addonpikachu
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]ANIMAL PLANET HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Animal_Planet_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]DISCOVERY CHANNEL HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Discovery_Channel_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]DISCOVERY HOME & HEALTH HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Disc-_Home_Health_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]DISCOVERY SCIENCE HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Discovery_Science_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]DISCOVERY TURBO HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Discovery_Turbo_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]DISCOVERY THEATER HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Discovery_Theater_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]DISCOVERY WORLD HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Discovery_World_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]HISTORY CHANNEL HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/The_History_Channel_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]H2 HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/History_2_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]ID - INVESTIGACAO DISCOVERY HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/ID_-_Investi_Discovery_HD/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]NAT GEO HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/Nat_Geo_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS DOCUMENTÁRIOS",[I][B][COLOR blue]NAT GEO WILD HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://195.181.163.183:2200/PY-N/NatGeo_Wild_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
