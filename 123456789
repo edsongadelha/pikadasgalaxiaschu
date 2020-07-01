@@ -18,7 +18,39 @@ https://t.me/addonpikachu
 
 #EXTINF:-1 tvg-id="" tvg-name="NOVA MACHETE" tvg-logo="https://2.bp.blogspot.com/-iqA65sOrRCg/XYAx7_bqDDI/AAAAAAAAB7I/CJq4e5Bfircbk8E7lXAsPlZcMRLVIkh9gCPcBGAYYCw/s320/Screenshot_2019-09-16-22-04-53.png" group-title=" CANAL ABERTOS",NOVA MACHETE
 http://fhr.ddns.net:25461/pikachu12/pikachuburro/52702
-#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="https://i.imgur.com/MkVKxeZ.png" group-title="DOCUMENTÁRIOS",Viva HD
-http://fhr.ddns.net:25461/pikachu12/pikachuburro/52704
-#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="https://i.imgur.com/MkVKxeZ.png" group-title=" CANAL ABERTOS",Viva HD
-http://fhr.ddns.net:25461/pikachu12/pikachuburro/52706
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD " tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63378
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD " tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63379
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD " tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63380
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION HD " tvg-logo="https://i.imgur.com/9KN71tH.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION HD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63381
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION SD " tvg-logo="https://i.imgur.com/9KN71tH.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION SD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63382
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD " tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H FHD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63383
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD " tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H HD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63384
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD " tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H SD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63385
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD " tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H SD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63386
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD " tvg-logo="https://i.imgur.com/qfSk26c.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63387
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD " tvg-logo="https://i.imgur.com/qfSk26c.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63388
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD " tvg-logo="https://i.imgur.com/qfSk26c.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63389
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGA" tvg-logo="https://i.imgur.com/vFrfd16.png" group-title="DOCUMENTÁRIOS",INVESTIGA
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63390
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD " tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="DOCUMENTÁRIOS",NATGEO WILD FHD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63391
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD " tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="DOCUMENTÁRIOS",NATGEO WILD HD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63392
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD [ALTER]" tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="DOCUMENTÁRIOS",NATGEO WILD [ALTER]
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63393
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD " tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="DOCUMENTÁRIOS",NATGEO WILD SD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63394
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD " tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="DOCUMENTÁRIOS",NATGEO WILD SD 
+http://fhr.ddns.net:25461/pikachu12/pikachuburro/63395
