@@ -1,0 +1,260 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/JfvcNWz.png" group-title="Filmes Séries",[I][B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxSERVIDOR 3
+<layouttype>thumbnail</layouttype>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/XXDQC6W.png" group-title="Filmes Séries",[I][B][COLOR yellow] Video De Intrução Para Torrents [COLOR lime][[COLOR blue] Click Aqui [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+https://www.gadrive.com/d/FYVRi&type=1
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/71breqg.png" group-title="Filmes Séries",[I][B][COLOR yellow] Channel Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+<externallink>https://canaisgratis.eu/</externallink>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
+https://t.me/addonpikachu
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL FULLHD" tvg-logo="https://static.wixstatic.com/media/8de39f_d6a035f00d8642acaf7d3f955870e7d4.jpg" group-title="NOTICIAS",CNN ESPANHOL FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758078
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL HD" tvg-logo="https://static.wixstatic.com/media/8de39f_d6a035f00d8642acaf7d3f955870e7d4.jpg" group-title="NOTICIAS",CNN ESPANHOL HD
+http://vipeiptv.com:25461/israel12/israel12/758077
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL SD" tvg-logo="https://static.wixstatic.com/media/8de39f_d6a035f00d8642acaf7d3f955870e7d4.jpg" group-title="NOTICIAS",CNN ESPANHOL SD
+http://vipeiptv.com:25461/israel12/israel12/758076
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL FULLHD" tvg-logo="https://renovamidia.com.br/wp-content/uploads/2019/04/cnn-international.jpg" group-title="NOTICIAS",CNN INTERNACIONAL FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758081
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://renovamidia.com.br/wp-content/uploads/2019/04/cnn-international.jpg" group-title="NOTICIAS",CNN INTERNACIONAL HD
+http://vipeiptv.com:25461/israel12/israel12/758080
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://renovamidia.com.br/wp-content/uploads/2019/04/cnn-international.jpg" group-title="NOTICIAS",CNN INTERNACIONAL SD
+http://vipeiptv.com:25461/israel12/israel12/758079
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FULLHD" tvg-logo="http://vipeiptv.com:25461/images/b375b221bb575f67d82b6741551b8e87.jpg" group-title="CANAIS ABERTOS",BAND FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758324
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://vipeiptv.com:25461/images/b375b221bb575f67d82b6741551b8e87.jpg" group-title="CANAIS ABERTOS",BAND HD
+http://vipeiptv.com:25461/israel12/israel12/758323
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FULLHD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/07/bandnews-tv-arte-1-jornal-da-band-990x556.jpg" group-title="NOTICIAS",BAND NEWS FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758075
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/07/bandnews-tv-arte-1-jornal-da-band-990x556.jpg" group-title="NOTICIAS",BAND NEWS HD
+http://vipeiptv.com:25461/israel12/israel12/758074
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/07/bandnews-tv-arte-1-jornal-da-band-990x556.jpg" group-title="NOTICIAS",BAND NEWS SD
+http://vipeiptv.com:25461/israel12/israel12/758073
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg" group-title="CANAIS ABERTOS",BAND SD
+http://vipeiptv.com:25461/israel12/israel12/758322
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FULLHD" tvg-logo="https://4.bp.blogspot.com/-TqV1xE_FWzc/V1MsBqQjTqI/AAAAAAAAJtY/z35YuOc2sqIX_RFm309wupQ3vMEhNC5YwCLcB/s1600/123.jpg" group-title="ESPORTE",BAND SPORTS FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758261
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://4.bp.blogspot.com/-TqV1xE_FWzc/V1MsBqQjTqI/AAAAAAAAJtY/z35YuOc2sqIX_RFm309wupQ3vMEhNC5YwCLcB/s1600/123.jpg" group-title="ESPORTE",BAND SPORTS HD
+http://vipeiptv.com:25461/israel12/israel12/758260
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://4.bp.blogspot.com/-TqV1xE_FWzc/V1MsBqQjTqI/AAAAAAAAJtY/z35YuOc2sqIX_RFm309wupQ3vMEhNC5YwCLcB/s1600/123.jpg" group-title="ESPORTE",BAND SPORTS SD
+http://vipeiptv.com:25461/israel12/israel12/758259
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FULLHD" tvg-logo="http://vipeiptv.com:25461/images/b9c1ba80500fbcc75aa7a72ada9e7bbb.jpg" group-title="CANAIS ABERTOS",CANAL BRASIL FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758327
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://vipeiptv.com:25461/images/b9c1ba80500fbcc75aa7a72ada9e7bbb.jpg" group-title="CANAIS ABERTOS",CANAL BRASIL HD
+http://vipeiptv.com:25461/israel12/israel12/758326
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://vipeiptv.com:25461/images/b9c1ba80500fbcc75aa7a72ada9e7bbb.jpg" group-title="CANAIS ABERTOS",CANAL BRASIL SD
+http://vipeiptv.com:25461/israel12/israel12/758325
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI SD" tvg-logo="http://vipeiptv.com:25461/images/4a2e317a9cc91dfd90ebe7f55cad2d39.png" group-title="CANAIS ABERTOS",CANAL DO BOI SD
+http://vipeiptv.com:25461/israel12/israel12/758328
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA SD" tvg-logo="" group-title="RELIGIÃO",CANÇÃO NOVA SD
+http://vipeiptv.com:25461/israel12/israel12/74024
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA HD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO BRASILIA HD#
+http://vipeiptv.com:25461/israel12/israel12/757934
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO BRASILIA SD#
+http://vipeiptv.com:25461/israel12/israel12/757933
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CENTRO AMERICA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO CENTRO AMERICA FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757937
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CENTRO AMERICA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO CENTRO AMERICA HD
+http://vipeiptv.com:25461/israel12/israel12/757936
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO EPTV CAMPINAS FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757940
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO EPTV CAMPINAS HD
+http://vipeiptv.com:25461/israel12/israel12/757939
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO EPTV CAMPINAS SD
+http://vipeiptv.com:25461/israel12/israel12/757938
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO EPTV CAMPINAS SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO EPTV CAMPINAS SD#
+http://vipeiptv.com:25461/israel12/israel12/757941
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO EPTV RIBEIRÃO PRETO SD#
+http://vipeiptv.com:25461/israel12/israel12/757942
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SUL DE MINAS FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO EPTV SUL DE MINAS FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757944
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO EPTV SUL DE MINAS HD
+http://vipeiptv.com:25461/israel12/israel12/757943
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV CABUGI SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO INTER TV CABUGI SD#
+http://vipeiptv.com:25461/israel12/israel12/757945
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV GRANDE MINAS FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO INTER TV GRANDE MINAS FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757947
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO INTER TV GRANDE MINAS HD
+http://vipeiptv.com:25461/israel12/israel12/757946
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MINAS FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO MINAS FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757950
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO MINAS HD
+http://vipeiptv.com:25461/israel12/israel12/757949
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MINAS SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO MINAS SD
+http://vipeiptv.com:25461/israel12/israel12/757948
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FULLHD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",GLOBO NEWS FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758072
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",GLOBO NEWS HD
+http://vipeiptv.com:25461/israel12/israel12/758071
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",GLOBO NEWS SD
+http://vipeiptv.com:25461/israel12/israel12/758070
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO NORDESTE FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757954
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO NORDESTE HD
+http://vipeiptv.com:25461/israel12/israel12/757951
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE HD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO NORDESTE HD#
+http://vipeiptv.com:25461/israel12/israel12/757953
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO NORDESTE SD
+http://vipeiptv.com:25461/israel12/israel12/757955
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO NORDESTE SD#
+http://vipeiptv.com:25461/israel12/israel12/757952
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC FLORIANOPOLIS FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO NSC FLORIANOPOLIS FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757958
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO NSC FLORIANOPOLIS HD
+http://vipeiptv.com:25461/israel12/israel12/757957
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC FLORIANOPOLIS SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO NSC FLORIANOPOLIS SD
+http://vipeiptv.com:25461/israel12/israel12/757956
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS PORTO ALEGRE SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO RBS PORTO ALEGRE SD#
+http://vipeiptv.com:25461/israel12/israel12/757960
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV POA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO RBS TV POA FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757963
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV POA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO RBS TV POA HD
+http://vipeiptv.com:25461/israel12/israel12/757962
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV POA SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO RBS TV POA SD
+http://vipeiptv.com:25461/israel12/israel12/757961
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO REDE AMAZÔNICA MANAUS SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO REDE AMAZÔNICA MANAUS SD#
+http://vipeiptv.com:25461/israel12/israel12/757964
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RIO HD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO RIO HD#
+http://vipeiptv.com:25461/israel12/israel12/757965
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO RJ FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757966
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC PARANAENSE FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO RPC PARANAENSE FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757969
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC PARANAENSE HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO RPC PARANAENSE HD
+http://vipeiptv.com:25461/israel12/israel12/757968
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC PARANAENSE SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO RPC PARANAENSE SD
+http://vipeiptv.com:25461/israel12/israel12/757967
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC TV CURITIBA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO RPC TV CURITIBA SD#
+http://vipeiptv.com:25461/israel12/israel12/757970
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO SP FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757976
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO SP HD
+http://vipeiptv.com:25461/israel12/israel12/757971
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO SP HD#
+http://vipeiptv.com:25461/israel12/israel12/757975
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO SP SD
+http://vipeiptv.com:25461/israel12/israel12/757972
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP SD#2" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO SP SD#2
+http://vipeiptv.com:25461/israel12/israel12/757973
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD#3" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO SP SD#3
+http://vipeiptv.com:25461/israel12/israel12/757974
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV ANHANGUERA  SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV ANHANGUERA  SD
+http://vipeiptv.com:25461/israel12/israel12/757977
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV ANHANGUERA GOIÂNIA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV ANHANGUERA GOIÂNIA SD#
+http://vipeiptv.com:25461/israel12/israel12/757978
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BAHIA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV BAHIA FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757981
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV BAHIA HD
+http://vipeiptv.com:25461/israel12/israel12/757980
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV BAHIA SD
+http://vipeiptv.com:25461/israel12/israel12/757979
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BAHIA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV BAHIA SD#
+http://vipeiptv.com:25461/israel12/israel12/757982
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO TV BELEM FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV BELEM FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757985
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BELEM HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV BELEM HD
+http://vipeiptv.com:25461/israel12/israel12/757984
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BELEM SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV BELEM SD
+http://vipeiptv.com:25461/israel12/israel12/757983
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BRASILIA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV BRASILIA FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757935
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV LIBERAL BELEM SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV LIBERAL BELEM SD#
+http://vipeiptv.com:25461/israel12/israel12/757986
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MIRANTE FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV MIRANTE FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757989
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV MIRANTE HD
+http://vipeiptv.com:25461/israel12/israel12/757988
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MIRANTE SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV MIRANTE SD
+http://vipeiptv.com:25461/israel12/israel12/757987
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO TV MORENA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV MORENA FULLHD
+http://vipeiptv.com:25461/israel12/israel12/757992
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV MORENA HD
+http://vipeiptv.com:25461/israel12/israel12/757991
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MORENA SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV MORENA SD
+http://vipeiptv.com:25461/israel12/israel12/757990
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM BAURU SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV TEM BAURU SD#
+http://vipeiptv.com:25461/israel12/israel12/757993
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV TEM SOROCABA SD#
+http://vipeiptv.com:25461/israel12/israel12/757994
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV TRIBUNA SANTOS SD#
+http://vipeiptv.com:25461/israel12/israel12/757995
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD#
+http://vipeiptv.com:25461/israel12/israel12/757996
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV VERDES MARES FORTALEZA SD#
+http://vipeiptv.com:25461/israel12/israel12/757997
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV VERDES MARES FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV VERDES MARES FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758000
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV VERDES MARES HD
+http://vipeiptv.com:25461/israel12/israel12/757999
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBO TV VERDES MARES SD
+http://vipeiptv.com:25461/israel12/israel12/757998
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBOTV ANHANGUERA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBOTV ANHANGUERA FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758003
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBOTV ANHANGUERA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",GLOBOTV ANHANGUERA HD
+http://vipeiptv.com:25461/israel12/israel12/758001
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  FULLHD" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD  FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758331
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  HD SP" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD  HD SP
+http://vipeiptv.com:25461/israel12/israel12/758329
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BAHIA HD*" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD BAHIA HD*
+http://vipeiptv.com:25461/israel12/israel12/758332
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BELEM*" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD BELEM*
+http://vipeiptv.com:25461/israel12/israel12/758333
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA HD*" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD BRASILIA HD*
+http://vipeiptv.com:25461/israel12/israel12/758334
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD GOIAS" tvg-logo="http://vipeiptv.com:8080/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD GOIAS
+http://vipeiptv.com:25461/israel12/israel12/758335
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD HD*" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD HD*
+http://vipeiptv.com:25461/israel12/israel12/758330
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS HD*" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD MINAS HD*
+http://vipeiptv.com:25461/israel12/israel12/758337
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS*" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD MINAS*
+http://vipeiptv.com:25461/israel12/israel12/758336
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FULLHD" tvg-logo="https://media-manager.starsinsider.com/1920/na_5c9df95c17ee6.jpg" group-title="NOTICIAS",RECORD NEWS FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758087
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="https://media-manager.starsinsider.com/1920/na_5c9df95c17ee6.jpg" group-title="NOTICIAS",RECORD NEWS HD
+http://vipeiptv.com:25461/israel12/israel12/758086
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD" tvg-logo="https://media-manager.starsinsider.com/1920/na_5c9df95c17ee6.jpg" group-title="NOTICIAS",RECORD NEWS SD
+http://vipeiptv.com:25461/israel12/israel12/758085
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD*" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD RJ HD*
+http://vipeiptv.com:25461/israel12/israel12/758338
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD*" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD RS HD*
+http://vipeiptv.com:25461/israel12/israel12/758339
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS*" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD RS*
+http://vipeiptv.com:25461/israel12/israel12/758340
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD*" tvg-logo="http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",RECORD*
+http://vipeiptv.com:25461/israel12/israel12/758341
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER FULLHD" tvg-logo="" group-title="CANAIS ABERTOS",REDE SUPER FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758342
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV FULLHD" tvg-logo="http://vipeiptv.com:25461/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS ABERTOS",REDE TV FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758345
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://vipeiptv.com:25461/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS ABERTOS",REDE TV HD
+http://vipeiptv.com:25461/israel12/israel12/758344
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV SD" tvg-logo="http://vipeiptv.com:25461/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS ABERTOS",REDE TV SD
+http://vipeiptv.com:25461/israel12/israel12/758343
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FULLHD" tvg-logo="http://vipeiptv.com:25461/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS ABERTOS",SBT FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758348
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="http://vipeiptv.com:25461/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS ABERTOS",SBT HD
+http://vipeiptv.com:25461/israel12/israel12/758347
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="http://vipeiptv.com:25461/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS ABERTOS",SBT SD
+http://vipeiptv.com:25461/israel12/israel12/758346
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SD" tvg-logo="" group-title="RELIGIÃO",TV APARECIDA SD
+http://vipeiptv.com:25461/israel12/israel12/26794
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="" group-title="RELIGIÃO",TV NOVO TEMPO
+http://vipeiptv.com:25461/israel12/israel12/748896
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FULLHD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/TV-Ra-Tim-Bum.jpg" group-title="CANAIS INFANTIL",TV RA TIM BUM FULLHD
+http://vipeiptv.com:25461/israel12/israel12/758054
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/TV-Ra-Tim-Bum.jpg" group-title="CANAIS INFANTIL",TV RA TIM BUM HD
+http://vipeiptv.com:25461/israel12/israel12/758053
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/TV-Ra-Tim-Bum.jpg" group-title="CANAIS INFANTIL",TV RA TIM BUM SD
+http://vipeiptv.com:25461/israel12/israel12/758052
+
