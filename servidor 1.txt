@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/JfvcNWz.png" group-title="Filmes Séries",[I][B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR][/I]
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/JfvcNWz.png" group-title="Filmes Séries",[B][COLOR blue]Listas Sem Travas:[/B][/COLOR][COLOR white][ 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR blue][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B]
 plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
