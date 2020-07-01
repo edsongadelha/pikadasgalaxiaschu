@@ -1,839 +1,858 @@
 #EXTM3U
-#EXTINF:-1,A&E FHD¹
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/JfvcNWz.png" group-title="Filmes Séries",[I][B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxSERVIDOR 3
+<layouttype>thumbnail</layouttype>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/XXDQC6W.png" group-title="Filmes Séries",[I][B][COLOR yellow] Video De Intrução Para Torrents [COLOR lime][[COLOR blue] Click Aqui [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+https://www.gadrive.com/d/FYVRi&type=1
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/71breqg.png" group-title="Filmes Séries",[I][B][COLOR yellow] Channel Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+<externallink>https://canaisgratis.eu/</externallink>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
+https://t.me/addonpikachu
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]A&E FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23460
-#EXTINF:-1,A&E HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]A&E HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22960
-#EXTINF:-1,A&E SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]A&E SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23142
-#EXTINF:-1,AMC FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]AMC FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23461
-#EXTINF:-1,AMC HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]AMC HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22961
-#EXTINF:-1,AMC SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]AMC SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23143
-#EXTINF:-1,Animal Planet FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Animal Planet FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24236
-#EXTINF:-1,Animal Planet HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Animal Planet HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22962
-#EXTINF:-1,Animal Planet SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Animal Planet SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23144
-#EXTINF:-1,AXN HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]AXN HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22963
-#EXTINF:-1,AXN SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]AXN SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23145
-#EXTINF:-1,Baby TV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Baby TV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23146
-#EXTINF:-1,BAND Bahia SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]BAND Bahia SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23147
-#EXTINF:-1,Band BSB HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band BSB HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23073
-#EXTINF:-1,BAND CAMPINAS HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]BAND CAMPINAS HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23074
-#EXTINF:-1,Band News FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band News FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23500
-#EXTINF:-1,BAND NEWS HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]BAND NEWS HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33481
-#EXTINF:-1,Band News SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band News SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23149
-#EXTINF:-1,Band RJ FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band RJ FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23495
-#EXTINF:-1,Band RJ HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band RJ HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23075
-#EXTINF:-1,Band RS FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band RS FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23496
-#EXTINF:-1,Band RS HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band RS HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23076
-#EXTINF:-1,Band Sergipe HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band Sergipe HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23077
-#EXTINF:-1,Band SP FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band SP FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23497
-#EXTINF:-1,Band SP HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band SP HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23078
-#EXTINF:-1,Band Sports FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band Sports FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23447
-#EXTINF:-1,Band Sports HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band Sports HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22964
-#EXTINF:-1,Band Sports SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Band Sports SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23150
-#EXTINF:-1,Bandeirantes SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Bandeirantes SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23148
-#EXTINF:-1,BIS FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]BIS FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23486
-#EXTINF:-1,BIS HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]BIS HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22965
-#EXTINF:-1,BIS SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]BIS SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23151
-#EXTINF:-1,Boomerang FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Boomerang FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23479
-#EXTINF:-1,Boomerang SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Boomerang SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23152
-#EXTINF:-1,Canal Brasil SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Canal Brasil SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23153
-#EXTINF:-1,Canal Sony HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Canal Sony HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22966
-#EXTINF:-1,Canal Sony SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Canal Sony SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23155
-#EXTINF:-1,Canaldo Boi SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Canaldo Boi SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23154
-#EXTINF:-1,Cancao Nova SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Cancao Nova SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23156
-#EXTINF:-1,Cartoon Network HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Cartoon Network HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22967
-#EXTINF:-1,CartoonNetwork SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]CartoonNetwork SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23157
-#EXTINF:-1,Cinemax HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Cinemax HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22968
-#EXTINF:-1,Cinemax SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Cinemax SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23158
-#EXTINF:-1,CNN Brasil HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]CNN Brasil HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/32130
-#EXTINF:-1,CNN BRASIL SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]CNN BRASIL SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33647
-#EXTINF:-1,Combate FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Combate FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23452
-#EXTINF:-1,Combate HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Combate HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22969
-#EXTINF:-1,Combate SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Combate SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23159
-#EXTINF:-1,Comedy Central HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Comedy Central HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22970
-#EXTINF:-1,ComedyCentral SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ComedyCentral SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23160
-#EXTINF:-1,COPA LIBERTADORES¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]COPA LIBERTADORES¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/31531
-#EXTINF:-1,Curta ! SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Curta ! SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23161
-#EXTINF:-1,DAZN 01 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]DAZN 01 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23079
-#EXTINF:-1,DAZN 02 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]DAZN 02 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23080
-#EXTINF:-1,DAZN 03 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]DAZN 03 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23081
-#EXTINF:-1,DAZN 04 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]DAZN 04 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23082
-#EXTINF:-1,Discovery Channel FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Channel FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23467
-#EXTINF:-1,Discovery Channel HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Channel HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22971
-#EXTINF:-1,Discovery Channel SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Channel SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23162
-#EXTINF:-1,Discovery HeH FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery HeH FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23468
-#EXTINF:-1,Discovery HEH SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery HEH SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23163
-#EXTINF:-1,Discovery Home & Health HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Home & Health HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22973
-#EXTINF:-1,Discovery Investigation FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Investigation FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23470
-#EXTINF:-1,Discovery Kids FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Kids FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23478
-#EXTINF:-1,Discovery Kids HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Kids HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22974
-#EXTINF:-1,Discovery Science FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Science FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23471
-#EXTINF:-1,Discovery Science HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Science HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22975
-#EXTINF:-1,Discovery Theater FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Theater FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23472
-#EXTINF:-1,Discovery Theater HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Theater HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22976
-#EXTINF:-1,Discovery Turbo FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Turbo FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23473
-#EXTINF:-1,Discovery Turbo HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Turbo HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22977
-#EXTINF:-1,Discovery Turbo SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery Turbo SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23165
-#EXTINF:-1,Discovery World FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery World FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23474
-#EXTINF:-1,Discovery World HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Discovery World HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22978
-#EXTINF:-1,DiscoveryKids SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]DiscoveryKids SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23164
-#EXTINF:-1,Disney channel HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Disney channel HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22979
-#EXTINF:-1,Disney Junior HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Disney Junior HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22980
-#EXTINF:-1,Disney SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Disney SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23166
-#EXTINF:-1,Disney XD SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Disney XD SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23168
-#EXTINF:-1,DisneyJunior SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]DisneyJunior SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23167
-#EXTINF:-1,E HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]E HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22981
-#EXTINF:-1,E! SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]E! SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23169
-#EXTINF:-1,EI Plus FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EI Plus FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23451
-#EXTINF:-1,EiMax  SD¹ Jogos02
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EiMax  SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] Jogos02
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23084
-#EXTINF:-1,EiMax  SD¹ Jogos03
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EiMax  SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] Jogos03
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23085
-#EXTINF:-1,EiMax SD¹  
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EiMax SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]  
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23086
-#EXTINF:-1,EiMax SD¹ Jogos01
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EiMax SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] Jogos01
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23083
-#EXTINF:-1,EiMax SD¹ Jogos04
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EiMax SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] Jogos04
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24519
-#EXTINF:-1,EiPlus HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EiPlus HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23087
-#EXTINF:-1,EPTV CAMPINAS FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EPTV CAMPINAS FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24442
-#EXTINF:-1,EPTV CAMPINAS HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EPTV CAMPINAS HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24441
-#EXTINF:-1,EPTV Campinas SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EPTV Campinas SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23171
-#EXTINF:-1,EPTV Sao Carlos SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EPTV Sao Carlos SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23170
-#EXTINF:-1,EPTVRibeiraoPreto SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]EPTVRibeiraoPreto SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23172
-#EXTINF:-1,ESPN 2 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ESPN 2 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23449
-#EXTINF:-1,ESPN 2 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ESPN 2 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22982
-#EXTINF:-1,ESPN 2 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ESPN 2 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23174
-#EXTINF:-1,ESPN Brasil FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ESPN Brasil FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23450
-#EXTINF:-1,ESPN Brasil HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ESPN Brasil HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22983
-#EXTINF:-1,ESPN Brasil SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ESPN Brasil SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23175
-#EXTINF:-1,ESPN Extra HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ESPN Extra HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22985
-#EXTINF:-1,ESPN HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ESPN HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22984
-#EXTINF:-1,ESPN SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ESPN SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23173
-#EXTINF:-1,Film & Arts SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Film & Arts SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23176
-#EXTINF:-1,Fish TV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fish TV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23177
-#EXTINF:-1,Flamengo - Fla Tv
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Flamengo - Fla Tv[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/31555
-#EXTINF:-1,Food Network FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Food Network FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23483
-#EXTINF:-1,Food Network HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Food Network HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22986
-#EXTINF:-1,Food Network SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Food Network SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23178
-#EXTINF:-1,Fox FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23465
-#EXTINF:-1,FOX HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]FOX HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22987
-#EXTINF:-1,Fox Life FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Life FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23466
-#EXTINF:-1,FOX Life HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]FOX Life HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22988
-#EXTINF:-1,Fox Life SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Life SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23180
-#EXTINF:-1,Fox Premium 1 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Premium 1 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22989
-#EXTINF:-1,Fox Premium 2 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Premium 2 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22990
-#EXTINF:-1,Fox Premium FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Premium FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23464
-#EXTINF:-1,FOX SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]FOX SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23179
-#EXTINF:-1,Fox Sports 2 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Sports 2 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23446
-#EXTINF:-1,Fox Sports 2 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Sports 2 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22991
-#EXTINF:-1,Fox Sports 2 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Sports 2 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23182
-#EXTINF:-1,Fox Sports FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Sports FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23445
-#EXTINF:-1,Fox Sports HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Sports HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22992
-#EXTINF:-1,Fox Sports SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Fox Sports SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23181
-#EXTINF:-1,Futura SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Futura SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23183
-#EXTINF:-1,FX HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]FX HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22993
-#EXTINF:-1,FX SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]FX SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23184
-#EXTINF:-1,GAZETA SP HD¹ 
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]GAZETA SP HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23090
-#EXTINF:-1,Globo BRASILIA HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo BRASILIA HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24520
-#EXTINF:-1,Globo Brasilia SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo Brasilia SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23185
-#EXTINF:-1,Globo BSB HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo BSB HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23091
-#EXTINF:-1,GLOBO GAZETA SUL ES SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]GLOBO GAZETA SUL ES SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23092
-#EXTINF:-1,GLOBO GAZETA SUL ES. FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]GLOBO GAZETA SUL ES. FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23093
-#EXTINF:-1,GLOBO GAZETA SUL ES. HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]GLOBO GAZETA SUL ES. HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23094
-#EXTINF:-1,Globo Inter TV Cabugi SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo Inter TV Cabugi SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23200
-#EXTINF:-1,Globo Internacional HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo Internacional HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23095
-#EXTINF:-1,Globo Manaus HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo Manaus HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24444
-#EXTINF:-1,Globo Minas FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo Minas FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23438
-#EXTINF:-1,Globo Minas HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo Minas HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23135
-#EXTINF:-1,Globo Minas SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo Minas SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23186
-#EXTINF:-1,Globo News FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo News FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23498
-#EXTINF:-1,Globo News SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo News SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23187
-#EXTINF:-1,Globo Nordeste SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo Nordeste SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23188
-#EXTINF:-1,Globo Paraiba HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo Paraiba HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24604
-#EXTINF:-1,GLOBO PORTUGUAL
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]GLOBO PORTUGUAL[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33152
-#EXTINF:-1,Globo RJ FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo RJ FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23436
-#EXTINF:-1,Globo RJ FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo RJ FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/32125
-#EXTINF:-1,Globo RJ HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo RJ HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23096
-#EXTINF:-1,Globo RJ SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo RJ SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23189
-#EXTINF:-1,Globo Sergipe HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo Sergipe HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23097
-#EXTINF:-1,Globo SP FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo SP FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23437
-#EXTINF:-1,Globo SP HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo SP HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23098
-#EXTINF:-1,Globo SP SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globo SP SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23190
-#EXTINF:-1,GloboNews HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]GloboNews HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22994
-#EXTINF:-1,Globosat HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Globosat HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22995
-#EXTINF:-1,Gloob HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Gloob HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22996
-#EXTINF:-1,Gloob SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Gloob SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23191
-#EXTINF:-1,GNT HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]GNT HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22997
-#EXTINF:-1,GNT SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]GNT SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23192
-#EXTINF:-1,HBO 1 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO 1 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23501
-#EXTINF:-1,HBO 2 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO 2 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23502
-#EXTINF:-1,HBO 2 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO 2 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22998
-#EXTINF:-1,HBO FAMILY FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO FAMILY FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23503
-#EXTINF:-1,HBO Family HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO Family HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22999
-#EXTINF:-1,HBO Family SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO Family SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23194
-#EXTINF:-1,HBO HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23000
-#EXTINF:-1,HBO PLUS FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO PLUS FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23504
-#EXTINF:-1,HBO Plus HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO Plus HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23001
-#EXTINF:-1,HBO Plus SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO Plus SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23195
-#EXTINF:-1,HBO SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23193
-#EXTINF:-1,HBO SIGNATURE FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO SIGNATURE FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23505
-#EXTINF:-1,HBO Signature HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO Signature HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23002
-#EXTINF:-1,HBO Signature SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO Signature SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23196
-#EXTINF:-1,HBO2 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HBO2 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23197
-#EXTINF:-1,HGTV HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]HGTV HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22972
-#EXTINF:-1,History 2 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]History 2 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23482
-#EXTINF:-1,History 2 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]History 2 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23003
-#EXTINF:-1,History 2 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]History 2 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23198
-#EXTINF:-1,History FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]History FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23481
-#EXTINF:-1,History HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]History HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23004
-#EXTINF:-1,History SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]History SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23285
-#EXTINF:-1,ID - Investigacao Discovery SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ID - Investigacao Discovery SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23199
-#EXTINF:-1,InterTv Cabo Frio HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]InterTv Cabo Frio HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24423
-#EXTINF:-1,Investigation Discovery HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Investigation Discovery HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23005
-#EXTINF:-1,Lifetime HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Lifetime HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23006
-#EXTINF:-1,Lifetime SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Lifetime SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23201
-#EXTINF:-1,LIVE AO VIVO¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]LIVE AO VIVO¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33411
-#EXTINF:-1,LOVE NATURE FULL HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]LOVE NATURE FULL HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/32129
-#EXTINF:-1,Mais Globosat SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Mais Globosat SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23202
-#EXTINF:-1,Max HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Max HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23007
-#EXTINF:-1,Max Prime FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Max Prime FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23455
-#EXTINF:-1,MAX Prime HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]MAX Prime HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23008
-#EXTINF:-1,MAX Prime SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]MAX Prime SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23204
-#EXTINF:-1,MAX SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]MAX SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23203
-#EXTINF:-1,Max UP FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Max UP FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23454
-#EXTINF:-1,MAX UP HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]MAX UP HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23009
-#EXTINF:-1,MAX UP SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]MAX UP SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23205
-#EXTINF:-1,Megapix FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Megapix FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23453
-#EXTINF:-1,Megapix HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Megapix HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23010
-#EXTINF:-1,MegaPix SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]MegaPix SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23206
-#EXTINF:-1,MTV FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]MTV FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23485
-#EXTINF:-1,MTV HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]MTV HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23011
-#EXTINF:-1,MTV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]MTV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23207
-#EXTINF:-1,Multishow FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Multishow FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23484
-#EXTINF:-1,Multishow HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Multishow HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23012
-#EXTINF:-1,Multishow SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Multishow SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23208
-#EXTINF:-1,Music Box Brazil HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Music Box Brazil HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23210
-#EXTINF:-1,Music Box Brazil SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Music Box Brazil SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23209
-#EXTINF:-1,Nat Geo Wild SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Nat Geo Wild SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23212
-#EXTINF:-1,NatGeo FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]NatGeo FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23480
-#EXTINF:-1,NatGeo HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]NatGeo HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23013
-#EXTINF:-1,NatGeo Kids FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]NatGeo Kids FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23475
-#EXTINF:-1,NatGeo Kids HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]NatGeo Kids HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23014
-#EXTINF:-1,NatGeo Wild HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]NatGeo Wild HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23015
-#EXTINF:-1,NatGeoKids SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]NatGeoKids SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23211
-#EXTINF:-1,National Geographic SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]National Geographic SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23213
-#EXTINF:-1,NHK SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]NHK SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23214
-#EXTINF:-1,Nick JR FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Nick JR FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23476
-#EXTINF:-1,Nick.Jr SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Nick.Jr SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23215
-#EXTINF:-1,Nickelodeon FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Nickelodeon FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23477
-#EXTINF:-1,Nickelodeon HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Nickelodeon HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23016
-#EXTINF:-1,Nickelodeon SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Nickelodeon SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23216
-#EXTINF:-1,NickJr HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]NickJr HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23017
-#EXTINF:-1,NSC TV Florianopolis HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]NSC TV Florianopolis HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/32124
-#EXTINF:-1,NSC TV Santa Catarina HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]NSC TV Santa Catarina HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23131
-#EXTINF:-1,OFF FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]OFF FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23488
-#EXTINF:-1,OFF HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]OFF HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23018
-#EXTINF:-1,OFF SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]OFF SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23217
-#EXTINF:-1,Paramount HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Paramount HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23019
-#EXTINF:-1,Paramount SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Paramount SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23218
-#EXTINF:-1,Playkids SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Playkids SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23099
-#EXTINF:-1,PlayTV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]PlayTV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23220
-#EXTINF:-1,Polishop TV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Polishop TV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23221
-#EXTINF:-1,PREMIERE 2 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]PREMIERE 2 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23507
-#EXTINF:-1,Premiere 2 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 2 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23020
-#EXTINF:-1,Premiere 2 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 2 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23222
-#EXTINF:-1,PREMIERE 3 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]PREMIERE 3 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23508
-#EXTINF:-1,Premiere 3 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 3 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23021
-#EXTINF:-1,Premiere 3 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 3 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23223
-#EXTINF:-1,PREMIERE 4 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]PREMIERE 4 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23509
-#EXTINF:-1,Premiere 4 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 4 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23022
-#EXTINF:-1,Premiere 4 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 4 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23224
-#EXTINF:-1,PREMIERE 5 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]PREMIERE 5 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23510
-#EXTINF:-1,Premiere 5 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 5 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23023
-#EXTINF:-1,Premiere 5 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 5 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23225
-#EXTINF:-1,PREMIERE 6 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]PREMIERE 6 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23511
-#EXTINF:-1,Premiere 6 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 6 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23024
-#EXTINF:-1,Premiere 6 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 6 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23226
-#EXTINF:-1,PREMIERE 7 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]PREMIERE 7 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23512
-#EXTINF:-1,Premiere 7 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 7 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23025
-#EXTINF:-1,Premiere 7 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 7 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23227
-#EXTINF:-1,Premiere 8 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 8 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23228
-#EXTINF:-1,Premiere 9 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere 9 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23229
-#EXTINF:-1,PREMIERE CLUBES FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]PREMIERE CLUBES FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23506
-#EXTINF:-1,Premiere Clubes HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere Clubes HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23026
-#EXTINF:-1,Premiere Clubes SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Premiere Clubes SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23230
-#EXTINF:-1,Prime Box Brazil SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Prime Box Brazil SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23231
-#EXTINF:-1,RBS TV PortoAlegre FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RBS TV PortoAlegre FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23441
-#EXTINF:-1,RBS TV PortoAlegre HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RBS TV PortoAlegre HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23100
-#EXTINF:-1,RBS TV PortoAlegre SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RBS TV PortoAlegre SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23232
-#EXTINF:-1,Record BSB HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record BSB HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23101
-#EXTINF:-1,RECORD NEWS ES
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RECORD NEWS ES[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23102
-#EXTINF:-1,RECORD NEWS ES FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RECORD NEWS ES FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23103
-#EXTINF:-1,RECORD NEWS ES HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RECORD NEWS ES HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23104
-#EXTINF:-1,RECORD NEWS HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RECORD NEWS HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33482
-#EXTINF:-1,Record News SC HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record News SC HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23134
-#EXTINF:-1,Record News SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record News SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23233
-#EXTINF:-1,Record RJ FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record RJ FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23490
-#EXTINF:-1,Record RJ HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record RJ HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23112
-#EXTINF:-1,Record RS HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record RS HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23105
-#EXTINF:-1,Record Sao Jose Rio Preto HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record Sao Jose Rio Preto HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23106
-#EXTINF:-1,Record Sergipe HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record Sergipe HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23107
-#EXTINF:-1,Record SP FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record SP FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23489
-#EXTINF:-1,Record SP HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record SP HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23108
-#EXTINF:-1,Record TV belem HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record TV belem HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23109
-#EXTINF:-1,RECORD TV GOIANIA HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RECORD TV GOIANIA HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23027
-#EXTINF:-1,RECORD TV LITORAL HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RECORD TV LITORAL HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23110
-#EXTINF:-1,Record TV Minas HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record TV Minas HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23111
-#EXTINF:-1,Record Tv Parana HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record Tv Parana HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23140
-#EXTINF:-1,Record Tv Santa Catarina HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Record Tv Santa Catarina HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23132
-#EXTINF:-1,RECORD TV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RECORD TV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23234
-#EXTINF:-1,Rede Amazonica Manaus SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Rede Amazonica Manaus SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23235
-#EXTINF:-1,Rede Brasil SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Rede Brasil SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23236
-#EXTINF:-1,Rede TV FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Rede TV FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23491
-#EXTINF:-1,Rede TV HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Rede TV HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23028
-#EXTINF:-1,Rede TV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Rede TV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23237
-#EXTINF:-1,Rede Vida SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Rede Vida SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23238
-#EXTINF:-1,RPC Parana HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RPC Parana HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23137
-#EXTINF:-1,RPC TV Curitiba SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RPC TV Curitiba SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23239
-#EXTINF:-1,SBT BSB HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SBT BSB HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23113
-#EXTINF:-1,SBT Parana HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SBT Parana HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23139
-#EXTINF:-1,SBT RJ FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SBT RJ FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23492
-#EXTINF:-1,SBT RJ HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SBT RJ HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23114
-#EXTINF:-1,SBT RS HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SBT RS HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23115
-#EXTINF:-1,Sbt Santa Catarina HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Sbt Santa Catarina HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23133
-#EXTINF:-1,SBT SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SBT SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23240
-#EXTINF:-1,SBT Sergipe HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SBT Sergipe HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23116
-#EXTINF:-1,SBT SP FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SBT SP FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23493
-#EXTINF:-1,Sbt SP HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Sbt SP HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23117
-#EXTINF:-1,SBT-MG-Tv Alterosa FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SBT-MG-Tv Alterosa FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33153
-#EXTINF:-1,Smithsonian HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Smithsonian HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33653
-#EXTINF:-1,Space FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Space FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23458
-#EXTINF:-1,Space HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Space HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23029
-#EXTINF:-1,Space SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Space SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23243
-#EXTINF:-1,SporTV 2 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SporTV 2 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23443
-#EXTINF:-1,SporTV 2 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SporTV 2 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23030
-#EXTINF:-1,SporTV 2 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SporTV 2 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23245
-#EXTINF:-1,SporTV 3 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SporTV 3 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23444
-#EXTINF:-1,SporTV 3 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SporTV 3 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23031
-#EXTINF:-1,SporTV 3 SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SporTV 3 SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23246
-#EXTINF:-1,SporTV FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SporTV FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24424
-#EXTINF:-1,SporTV HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SporTV HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23032
-#EXTINF:-1,SporTV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SporTV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23244
-#EXTINF:-1,Studio Universal FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Studio Universal FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23459
-#EXTINF:-1,Studio Universal HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Studio Universal HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23033
-#EXTINF:-1,Studio Universal SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Studio Universal SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23247
-#EXTINF:-1,SYFY FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SYFY FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23463
-#EXTINF:-1,SYFY HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]SYFY HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23034
-#EXTINF:-1,Syfy SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Syfy SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23248
-#EXTINF:-1,TBS HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TBS HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23035
-#EXTINF:-1,TBS SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TBS SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23249
-#EXTINF:-1,TCM SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TCM SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23250
-#EXTINF:-1,Telecine Action FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Action FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23435
-#EXTINF:-1,Telecine Action HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Action HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23036
-#EXTINF:-1,Telecine Action SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Action SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23251
-#EXTINF:-1,Telecine Cult FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Cult FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23434
-#EXTINF:-1,Telecine Cult HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Cult HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23037
-#EXTINF:-1,Telecine Cult SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Cult SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23252
-#EXTINF:-1,Telecine Fun FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Fun FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23433
-#EXTINF:-1,Telecine Fun HD
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Fun HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23038
-#EXTINF:-1,Telecine Fun SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Fun SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23253
-#EXTINF:-1,Telecine Pipoca FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Pipoca FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23432
-#EXTINF:-1,Telecine Pipoca HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Pipoca HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23039
-#EXTINF:-1,Telecine Pipoca SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Pipoca SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23254
-#EXTINF:-1,Telecine Premium FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Premium FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23431
-#EXTINF:-1,Telecine Premium HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Premium HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23040
-#EXTINF:-1,Telecine Premium SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Premium SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23255
-#EXTINF:-1,TELECINE TOUCH FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TELECINE TOUCH FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23427
-#EXTINF:-1,Telecine Touch HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Touch HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23041
-#EXTINF:-1,Telecine Touch SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Telecine Touch SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23256
-#EXTINF:-1,Terra Viva SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Terra Viva SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23257
-#EXTINF:-1,TLC FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TLC FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24425
-#EXTINF:-1,TLC HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TLC HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23042
-#EXTINF:-1,TLC SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TLC SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23258
-#EXTINF:-1,TNT FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TNT FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23456
-#EXTINF:-1,TNT HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TNT HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23043
-#EXTINF:-1,TNT SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TNT SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23259
-#EXTINF:-1,TNT Series FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TNT Series FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23457
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TNT Series HD[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23044
-#EXTINF:-1,TNT Series SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TNT Series SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23260
-#EXTINF:-1,Tooncast SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Tooncast SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23261
-#EXTINF:-1,TruTV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TruTV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23262
-#EXTINF:-1,TruTV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TruTV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23263
-#EXTINF:-1,Tv Alterosa HD¹ [SBT MG]
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Tv Alterosa HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] [SBT MG]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23136
-#EXTINF:-1,Tv Anhaguera HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Tv Anhaguera HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23045
-#EXTINF:-1,TV Anhanguera Goiania SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Anhanguera Goiania SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23264
-#EXTINF:-1,TV Aparecida SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Aparecida SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23265
-#EXTINF:-1,TV Aratu HD¹ SBT Bahia
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Aratu HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] SBT Bahia
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23118
-#EXTINF:-1,TV Asa branca HD Globo Caruaru PE¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Asa branca HD Globo Caruaru PE¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/32127
-#EXTINF:-1,TV Bahia SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Bahia SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23266
-#EXTINF:-1,TV Cabralia HD¹ Bahia Record
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Cabralia HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] Bahia Record
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23119
-#EXTINF:-1,TV Camara SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Camara SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23267
-#EXTINF:-1,TV Centro America Cuiaba SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Centro America Cuiaba SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23268
-#EXTINF:-1,TV CLUBE ( GLOBO PIAUI) HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV CLUBE ( GLOBO PIAUI) HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24605
-#EXTINF:-1,TV Cultura SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Cultura SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23269
-#EXTINF:-1,TV DIARIO HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV DIARIO HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24437
-#EXTINF:-1,Tv Escola SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Tv Escola SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33651
-#EXTINF:-1,TV EVAGILIZAR ES FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV EVAGILIZAR ES FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24346
-#EXTINF:-1,TV GLOBINHO SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV GLOBINHO SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23288
-#EXTINF:-1,Tv Goiania Band HD¹ 
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Tv Goiania Band HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23046
-#EXTINF:-1,TV IDEAL¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV IDEAL¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33409
-#EXTINF:-1,TV Justica SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Justica SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23270
-#EXTINF:-1,TV Liberal Belem HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Liberal Belem HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24488
-#EXTINF:-1,TV Liberal Belem SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Liberal Belem SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23271
-#EXTINF:-1,Tv Mirante HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Tv Mirante HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24443
-#EXTINF:-1,TV Morena Ponta Pora HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Morena Ponta Pora HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23120
-#EXTINF:-1,TV NOVO TEMPO SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV NOVO TEMPO SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23287
-#EXTINF:-1,TV Paranaíba HD¹ Record -Uberlandia-MG
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Paranaíba HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] Record -Uberlandia-MG
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23121
-#EXTINF:-1,TV Ra Tim Bum HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Ra Tim Bum HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23047
-#EXTINF:-1,TV Ra tim bum SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Ra tim bum SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23272
-#EXTINF:-1,Tv Rio Sul HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Tv Rio Sul HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24445
-#EXTINF:-1,TV Santa Cruz TV Bahia HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Santa Cruz TV Bahia HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23122
-#EXTINF:-1,TV Senado SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Senado SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23273
-#EXTINF:-1,Tv Serra Dourada HD¹ (Sbt)
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Tv Serra Dourada HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] (Sbt)
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23048
-#EXTINF:-1,TV Subae (globo bahia HD)
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Subae (globo bahia HD)[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23123
-#EXTINF:-1,Tv Taroba HD¹ 
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Tv Taroba HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23138
-#EXTINF:-1,TV Tem Bauru SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Tem Bauru SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23274
-#EXTINF:-1,TV Tem Sao Jose do Rio Preto SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Tem Sao Jose do Rio Preto SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23275
-#EXTINF:-1,TV Tem Sorocaba SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Tem Sorocaba SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23276
-#EXTINF:-1,TV TRIBUNA ES - SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV TRIBUNA ES - SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23124
-#EXTINF:-1,TV TRIBUNA ES FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV TRIBUNA ES FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23125
-#EXTINF:-1,TV TRIBUNA ES HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV TRIBUNA ES HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23126
-#EXTINF:-1,TV Tribuna Santos SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Tribuna Santos SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23277
-#EXTINF:-1,TV Vanguarda dos Campos SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Vanguarda dos Campos SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23278
-#EXTINF:-1,TV Verdes Mares Fortaleza SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Verdes Mares Fortaleza SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23279
-#EXTINF:-1,TV Verdes Mares HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV Verdes Mares HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24487
-#EXTINF:-1,TV VITORIA ES FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV VITORIA ES FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23128
-#EXTINF:-1,TV VITORIA ES HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV VITORIA ES HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23129
-#EXTINF:-1,TV VITORIA ES SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV VITORIA ES SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23127
-#EXTINF:-1,TVB Record Campinas HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TVB Record Campinas HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23130
-#EXTINF:-1,Universal TV HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Universal TV HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23049
-#EXTINF:-1,Universal TV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Universal TV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23286
-#EXTINF:-1,UNIVESP TV SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]UNIVESP TV SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33649
-#EXTINF:-1,VH1 FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]VH1 FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23487
-#EXTINF:-1,VH1 HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]VH1 HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23050
-#EXTINF:-1,VH1 Megahits SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]VH1 Megahits SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23280
-#EXTINF:-1,Viva HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Viva HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23051
-#EXTINF:-1,Viva SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Viva SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23281
-#EXTINF:-1,Warner Channel FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Warner Channel FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23462
-#EXTINF:-1,Warner Channel HD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Warner Channel HD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23052
-#EXTINF:-1,Warner Channel SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Warner Channel SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23282
-#EXTINF:-1,Woohoo SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Woohoo SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23283
-#EXTINF:-1,ZooMoo SD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]ZooMoo SD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23284
-#EXTINF:-1,Cine Sky 01
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Cine Sky 01[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/55921
-#EXTINF:-1,Cine Sky 02
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Cine Sky 02[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/55922
-#EXTINF:-1,Cine Sky 03
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]Cine Sky 03[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/55923
-#EXTINF:-1,GLOBO GAZETA SUL ES. FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]GLOBO GAZETA SUL ES. FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24344
-#EXTINF:-1,RBTV ES FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]RBTV ES FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24345
-#EXTINF:-1,TV VITORIA ES FHD¹
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]TV VITORIA ES FHD¹[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
 http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24347
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/r47VWW6.png" group-title="CANAIS ABERTOS",[I][B][COLOR blue]3 Palavrinhas 24hs[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23366
