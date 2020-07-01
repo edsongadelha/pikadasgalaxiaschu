@@ -14,6 +14,9 @@ https://www.gadrive.com/d/FYVRi&type=1
  
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
 https://t.me/addonpikachu
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[B][COLOR blue]Listas Sem Travas:[/B][/COLOR][COLOR white][ 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR blue][B]channel Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B]
+https://t.me/addonpikachu
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
