@@ -1,0 +1,296 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/JfvcNWz.png" group-title="Filmes Séries",[B][COLOR blue]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR blue][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B]
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxSERVIDOR 3
+<layouttype>thumbnail</layouttype>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/XXDQC6W.png" group-title="Filmes Séries",[I][B][COLOR yellow] Video De Intrução Para Torrents [COLOR lime][[COLOR blue] Click Aqui [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+https://www.gadrive.com/d/FYVRi&type=1
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/71breqg.png" group-title="Filmes Séries",[I][B][COLOR yellow] Channel Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+<externallink>https://canaisgratis.eu/</externallink>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
+https://t.me/addonpikachu
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/qMhOwCu.png" group-title="Filmes Séries",[B][COLOR blue]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR blue][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B]
+https://t.me/addonpikachu
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1,GAZETA SP HD¹ 
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23090
+#EXTINF:-1,Globo BRASILIA HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24520
+#EXTINF:-1,Globo Brasilia SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23185
+#EXTINF:-1,Globo BSB HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23091
+#EXTINF:-1,GLOBO GAZETA SUL ES SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23092
+#EXTINF:-1,GLOBO GAZETA SUL ES. FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23093
+#EXTINF:-1,GLOBO GAZETA SUL ES. HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23094
+#EXTINF:-1,Globo Inter TV Cabugi SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23200
+#EXTINF:-1,Globo Internacional HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23095
+#EXTINF:-1,Globo Manaus HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24444
+#EXTINF:-1,Globo Minas FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23438
+#EXTINF:-1,Globo Minas HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23135
+#EXTINF:-1,Globo Minas SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23186
+#EXTINF:-1,Globo News FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23498
+#EXTINF:-1,Globo News SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23187
+#EXTINF:-1,Globo Nordeste SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23188
+#EXTINF:-1,Globo Paraiba HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24604
+#EXTINF:-1,GLOBO PORTUGUAL
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33152
+#EXTINF:-1,Globo RJ FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23436
+#EXTINF:-1,Globo RJ FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/32125
+#EXTINF:-1,Globo RJ HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23096
+#EXTINF:-1,Globo RJ SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23189
+#EXTINF:-1,Globo Sergipe HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23097
+#EXTINF:-1,Globo SP FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23437
+#EXTINF:-1,Globo SP HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23098
+#EXTINF:-1,Globo SP SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23190
+#EXTINF:-1,GloboNews HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22994
+#EXTINF:-1,Globosat HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22995
+
+#EXTINF:-1,BAND Bahia SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23147
+#EXTINF:-1,Band BSB HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23073
+#EXTINF:-1,BAND CAMPINAS HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23074
+#EXTINF:-1,Band News FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23500
+#EXTINF:-1,BAND NEWS HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33481
+#EXTINF:-1,Band News SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23149
+#EXTINF:-1,Band RJ FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23495
+#EXTINF:-1,Band RJ HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23075
+#EXTINF:-1,Band RS FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23496
+#EXTINF:-1,Band RS HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23076
+#EXTINF:-1,Band Sergipe HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23077
+#EXTINF:-1,Band SP FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23497
+#EXTINF:-1,Band SP HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23078
+#EXTINF:-1,Band Sports FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23447
+#EXTINF:-1,Band Sports HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/22964
+#EXTINF:-1,Band Sports SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23150
+#EXTINF:-1,Bandeirantes SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23148
+
+#EXTINF:-1,RBS TV PortoAlegre FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23441
+#EXTINF:-1,RBS TV PortoAlegre HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23100
+#EXTINF:-1,RBS TV PortoAlegre SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23232
+#EXTINF:-1,Record BSB HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23101
+#EXTINF:-1,RECORD NEWS ES
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23102
+#EXTINF:-1,RECORD NEWS ES FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23103
+#EXTINF:-1,RECORD NEWS ES HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23104
+#EXTINF:-1,RECORD NEWS HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33482
+#EXTINF:-1,Record News SC HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23134
+#EXTINF:-1,Record News SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23233
+#EXTINF:-1,Record RJ FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23490
+#EXTINF:-1,Record RJ HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23112
+#EXTINF:-1,Record RS HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23105
+#EXTINF:-1,Record Sao Jose Rio Preto HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23106
+#EXTINF:-1,Record Sergipe HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23107
+#EXTINF:-1,Record SP FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23489
+#EXTINF:-1,Record SP HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23108
+#EXTINF:-1,Record TV belem HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23109
+#EXTINF:-1,RECORD TV GOIANIA HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23027
+#EXTINF:-1,RECORD TV LITORAL HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23110
+#EXTINF:-1,Record TV Minas HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23111
+#EXTINF:-1,Record Tv Parana HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23140
+#EXTINF:-1,Record Tv Santa Catarina HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23132
+#EXTINF:-1,RECORD TV SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23234
+#EXTINF:-1,Rede Amazonica Manaus SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23235
+#EXTINF:-1,Rede Brasil SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23236
+#EXTINF:-1,Rede TV FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23491
+#EXTINF:-1,Rede TV HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23028
+#EXTINF:-1,Rede TV SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23237
+#EXTINF:-1,Rede Vida SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23238
+#EXTINF:-1,RPC Parana HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23137
+#EXTINF:-1,RPC TV Curitiba SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23239
+#EXTINF:-1,SBT BSB HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23113
+#EXTINF:-1,SBT Parana HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23139
+#EXTINF:-1,SBT RJ FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23492
+#EXTINF:-1,SBT RJ HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23114
+#EXTINF:-1,SBT RS HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23115
+#EXTINF:-1,Sbt Santa Catarina HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23133
+#EXTINF:-1,SBT SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23240
+#EXTINF:-1,SBT Sergipe HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23116
+#EXTINF:-1,SBT SP FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23493
+#EXTINF:-1,Sbt SP HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23117
+#EXTINF:-1,SBT-MG-Tv Alterosa FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33153
+
+#EXTINF:-1,Tv Alterosa HD¹ [SBT MG]
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23136
+#EXTINF:-1,Tv Anhaguera HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23045
+#EXTINF:-1,TV Anhanguera Goiania SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23264
+#EXTINF:-1,TV Aparecida SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23265
+#EXTINF:-1,TV Aratu HD¹ SBT Bahia
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23118
+#EXTINF:-1,TV Asa branca HD Globo Caruaru PE¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/32127
+#EXTINF:-1,TV Bahia SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23266
+#EXTINF:-1,TV Cabralia HD¹ Bahia Record
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23119
+#EXTINF:-1,TV Camara SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23267
+#EXTINF:-1,TV Centro America Cuiaba SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23268
+#EXTINF:-1,TV CLUBE ( GLOBO PIAUI) HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24605
+#EXTINF:-1,TV Cultura SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23269
+#EXTINF:-1,TV DIARIO HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24437
+#EXTINF:-1,Tv Escola SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33651
+#EXTINF:-1,TV EVAGILIZAR ES FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24346
+#EXTINF:-1,TV GLOBINHO SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23288
+#EXTINF:-1,Tv Goiania Band HD¹ 
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23046
+#EXTINF:-1,TV IDEAL¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/33409
+#EXTINF:-1,TV Justica SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23270
+#EXTINF:-1,TV Liberal Belem HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24488
+#EXTINF:-1,TV Liberal Belem SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23271
+#EXTINF:-1,Tv Mirante HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24443
+#EXTINF:-1,TV Morena Ponta Pora HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23120
+#EXTINF:-1,TV NOVO TEMPO SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23287
+#EXTINF:-1,TV Paranaíba HD¹ Record -Uberlandia-MG
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23121
+#EXTINF:-1,TV Ra Tim Bum HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23047
+#EXTINF:-1,TV Ra tim bum SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23272
+#EXTINF:-1,Tv Rio Sul HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24445
+#EXTINF:-1,TV Santa Cruz TV Bahia HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23122
+#EXTINF:-1,TV Senado SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23273
+#EXTINF:-1,Tv Serra Dourada HD¹ (Sbt)
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23048
+#EXTINF:-1,TV Subae (globo bahia HD)
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23123
+#EXTINF:-1,Tv Taroba HD¹ 
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23138
+#EXTINF:-1,TV Tem Bauru SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23274
+#EXTINF:-1,TV Tem Sao Jose do Rio Preto SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23275
+#EXTINF:-1,TV Tem Sorocaba SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23276
+#EXTINF:-1,TV TRIBUNA ES - SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23124
+#EXTINF:-1,TV TRIBUNA ES FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23125
+#EXTINF:-1,TV TRIBUNA ES HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23126
+#EXTINF:-1,TV Tribuna Santos SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23277
+#EXTINF:-1,TV Vanguarda dos Campos SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23278
+#EXTINF:-1,TV Verdes Mares Fortaleza SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23279
+#EXTINF:-1,TV Verdes Mares HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/24487
+#EXTINF:-1,TV VITORIA ES FHD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23128
+#EXTINF:-1,TV VITORIA ES HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23129
+#EXTINF:-1,TV VITORIA ES SD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23127
+#EXTINF:-1,TVB Record Campinas HD¹
+http://smarterplay.xyz:80/reclient01/T2HLNkFoMo/23130
+
