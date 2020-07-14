@@ -626,7 +626,7 @@ https://canaismax.com/img/canais/899b5f5f08a0b7659ecd7ddbefd69785.png
 <title>[I][B][COLOR yellow]ARTE 1[/COLOR][COLOR lime] PIKACHU [COLOR white]HD[/COLOR][/B][/I]</title>
 <link>$doregex[PIKACHUIPTV]arte1hd/video.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>PIKACHUIPTV</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/ZXPULDuM</page></regex>
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/arte1.png</thumbnail>
+<thumbnail>https://eonteambrasil.com.br/SharedAssets/logo-canais/arte1.jpg</thumbnail>
 <genre>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</genre><info>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</info> </item>
 
 <item>
@@ -654,7 +654,7 @@ https://canaismax.com/img/canais/899b5f5f08a0b7659ecd7ddbefd69785.png
 <title>[I][B][COLOR yellow]CURTA![/COLOR][COLOR lime] PIKACHU [COLOR white]HD[/COLOR][/B][/I]</title>
 <link>$doregex[PIKACHUIPTV]curtahd/video.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>PIKACHUIPTV</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/ZXPULDuM</page></regex>
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/curta!.jpg</thumbnail>
+<thumbnail>https://eonteambrasil.com.br/SharedAssets/logo-canais/curta.jpg</thumbnail>
 <genre>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</genre><info>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</info> </item>
 
 <item>
@@ -682,7 +682,7 @@ https://canaismax.com/img/canais/899b5f5f08a0b7659ecd7ddbefd69785.png
 <title>[I][B][COLOR yellow]FOOD NETWORK[/COLOR][COLOR lime] PIKACHU [COLOR white]HD[/COLOR][/B][/I]</title>
 <link>$doregex[PIKACHUIPTV]foodnetworkhd/video.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>PIKACHUIPTV</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/ZXPULDuM</page></regex>
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/food_network.png</thumbnail>
+<thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/99/71/94/99719471-fb8d-4874-ee9e-7542036b1473/source/256x256bb.jpg</thumbnail>
 <genre>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</genre><info>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</info> </item>
 
 <item>
@@ -696,7 +696,7 @@ https://canaismax.com/img/canais/899b5f5f08a0b7659ecd7ddbefd69785.png
 <title>[I][B][COLOR yellow]GNT[/COLOR][COLOR lime] PIKACHU [COLOR white]HD[/COLOR][/B][/I]</title>
 <link>$doregex[PIKACHUIPTV]gnthd/video.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>PIKACHUIPTV</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/ZXPULDuM</page></regex>
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/gnt.png</thumbnail>
+<thumbnail>https://eonteambrasil.com.br/SharedAssets/logo-canais/gnt.jpg</thumbnail>
 <genre>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</genre><info>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</info> </item>
 
 <item>
