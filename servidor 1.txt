@@ -784,7 +784,7 @@ https://canaismax.com/img/canais/899b5f5f08a0b7659ecd7ddbefd69785.png
 
 <item>
 <title>[I][B][COLOR yellow]RECORD NEWS[/COLOR][COLOR lime] PIKACHU [COLOR white]HD[/COLOR][/B][/I]</title>
-<link>$doregex[PIKACHUIPTV]recordnewshd/video.m3u|Referer=$doregex[BP0]</link>
+<link>$doregex[PIKACHUIPTV]recordnewshd/video.m3u8|Referer=https://topcanais.com/</link>
 <regex><name>PIKACHUIPTV</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/ZXPULDuM</page></regex>
 <thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/record.png</thumbnail>
 <genre>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</genre><info>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</info> </item>
