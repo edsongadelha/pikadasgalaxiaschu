@@ -778,7 +778,7 @@ https://canaismax.com/img/canais/899b5f5f08a0b7659ecd7ddbefd69785.png
 <title>[I][B][COLOR yellow]GLOBO NEWS[/COLOR][COLOR lime] PIKACHU [COLOR white]HD[/COLOR][/B][/I]</title>
 <link>$doregex[PIKACHUIPTV]globonewshd/video.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>PIKACHUIPTV</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/ZXPULDuM</page></regex>
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globonews.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png</thumbnail>
 <genre>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</genre><info>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</info> </item>
 
 
