@@ -769,7 +769,7 @@ https://canaismax.com/img/canais/899b5f5f08a0b7659ecd7ddbefd69785.png
 
 
 <item>
-<title>[I][B][COLOR yellow]CNN BRASIL[/COLOR][COLOR lime]HD[/COLOR][/B][/I]</title>
+<title>[I][B][COLOR yellow]CNN BRASIL[/COLOR][COLOR lime] PIKACHU [COLOR white]HD[/COLOR][/B][/I]</title>
 <link>https://streaming.cnnbrasil.com.br/cnndigital_mainOutput3.m3u8</link>
 <thumbnail>https://i.imgur.com/87oWmQd.jpg</thumbnail>
 <genre>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</genre><info>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</info> </item>
