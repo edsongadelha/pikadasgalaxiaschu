@@ -771,14 +771,14 @@ https://canaismax.com/img/canais/899b5f5f08a0b7659ecd7ddbefd69785.png
 <item>
 <title>[I][B][COLOR yellow]CNN BRASIL[/COLOR][COLOR lime]HD[/COLOR][/B][/I]</title>
 <link>https://streaming.cnnbrasil.com.br/cnndigital_mainOutput3.m3u8</link>
-<thumbnail>https://lh3.googleusercontent.com/proxy/-WUTSEugYl7Vt1mK650F9gqLiE5Mja1I40f5uDp1JCSrKXoH4ouoLDpUXDdBswevpy3WYAGArkiNlpuea1WHH1EOtsH5O0eg3C4mKDjHTb2IA07KFwUILKA0wpvjSg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png</thumbnail>
 <genre>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</genre><info>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</info> </item>
 
 <item>
 <title>[I][B][COLOR yellow]GLOBO NEWS[/COLOR][COLOR lime] PIKACHU [COLOR white]HD[/COLOR][/B][/I]</title>
 <link>$doregex[PIKACHUIPTV]globonewshd/video.m3u8|Referer=$doregex[BP0]</link>
 <regex><name>PIKACHUIPTV</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/ZXPULDuM</page></regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png</thumbnail>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBvBT5eHOsEVwy0RDmxN5f8l6Fv_LsH4dgtg&usqp=CAU</thumbnail>
 <genre>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</genre><info>[B][COLOR lime]Listas Sem Travas:[/B][/COLOR][COLOR white][ +55 85 99836-9086 ][/COLOR][COLOR yellow] | [COLOR lime][B]Peça Já Seu Teste:[/B][/COLOR][COLOR white][ +55 79 8864-8245 ][/COLOR][COLOR lime][B] Pikachu Vipremium !!![/B][/COLOR]</info> </item>
 
 
