@@ -1,0 +1,129 @@
+<!DOCTYPE HTML><html lang="en" >
+*******************
+*******************
+<channels></channels><channel><name>[I][B][COLOR white]• [COLOR goldenrod]   Império de Sangue (2015)[COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<genre>[B][COLOR gray]TV-PG, Drama, 42m[/COLOR][/B]</genre>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Billy e Cody LeFever sonham com uma nova vida e mudam-se para "The Bakken" em Dakota do Norte, crescendo depois da maior descoberta de petróleo da história americana. Eles logo enfrentam um magnata impiedoso que os obriga a colocar tudo em risco, incluindo o casamento. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Piloto[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer13/ondemand/BDANDOILT01EP01</page><referer></referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AhiCl87LlI7FCfbaYK0w5LbWqpp.jpg</thumbnail>
+1<genre>[I][COLOR gray]TV-PG, Drama, 42m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/fQ5y2vEbKgQAIdrdLItOhHyl04U.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Billy e Cody chegam a Rock Springs com a intenção de começar seu próprio negócio, mas quando Billy aposta alto, Cody questiona suas intenções e seu casamento. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] O efeito ondulação[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer13/ondemand/BDANDOILT01EP02</page><referer></referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AhiCl87LlI7FCfbaYK0w5LbWqpp.jpg</thumbnail>
+2<genre>[I][COLOR gray]TV-PG, Drama, 42m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/fQ5y2vEbKgQAIdrdLItOhHyl04U.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Wick se esforça para esconder seu envolvimento no roubo. A chegada da filha de Hap, Lacey, cria uma rivalidade com Carla. Billy concorda com outro acordo com Hap sem primeiro consultar Cody. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Hustle and Flow[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer13/ondemand/BDANDOILT01EP03</page><referer></referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AhiCl87LlI7FCfbaYK0w5LbWqpp.jpg</thumbnail>
+3<genre>[I][COLOR gray]TV-PG, Drama, 42m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/fQ5y2vEbKgQAIdrdLItOhHyl04U.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Hap, que não suspeita mais do envolvimento de Wick no roubo de petróleo, oferece um ramo de oliveira ao filho por meio de um novo empreendimento, mas as tensões aumentam quando Billy tenta entrar no negócio. O xerife Tip prende um suspeito do assalto. AJ tenta usar seu relacionamento com Lacey para minar a Briggs Oil. Hap reacende seu relacionamento com a namorada de seu filho. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] A festa de aniversário[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer13/ondemand/BDANDOILT01EP04</page><referer></referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AhiCl87LlI7FCfbaYK0w5LbWqpp.jpg</thumbnail>
+4<genre>[I][COLOR gray]TV-PG, Drama, 42m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/fQ5y2vEbKgQAIdrdLItOhHyl04U.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quebrado e ainda se recuperando de ser enganado por Hap, Billy busca vingança e se volta para um aliado improvável, Clifton Lundegren, na esperança de apelar para seu desgosto mútuo para com os Briggs. Wick desafiadoramente ignora os desejos de Hap e continua a ver Jules, até mesmo pedindo a ajuda de Carla para lhe dar uma grande festa de aniversário em casa. E as coisas chegam a um ponto crítico com Lacey e AJ levando a um confronto que forçará AJ a tomar uma decisão para mudar o jogo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Pedras e lugares difíceis[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer13/ondemand/BDANDOILT01EP05</page><referer></referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AhiCl87LlI7FCfbaYK0w5LbWqpp.jpg</thumbnail>
+5<genre>[I][COLOR gray]TV-PG, Drama, 42m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/fQ5y2vEbKgQAIdrdLItOhHyl04U.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As deficiências de Wick são ampliadas quando sua irmã, e potencial rival, Lacey, entra oficialmente nos negócios da família. Enquanto isso, Billy tenta chantagear Hap com informações que Cody compartilhou com ele em sigilo, colocando ainda mais seu casamento em risco. Incapaz de afastar as suspeitas sobre seu filho, Hap visita o xerife Tip, que revela que Wick pode saber mais sobre o roubo do que está deixando transparecer. Mais tarde, Gary prova uma ameaça contínua para Wick - mas quando Wick tenta contra-atacar - é Cody que é colocado em perigo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Convergência[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer13/ondemand/BDANDOILT01EP06</page><referer></referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AhiCl87LlI7FCfbaYK0w5LbWqpp.jpg</thumbnail>
+6<genre>[I][COLOR gray]TV-PG, Drama, 42m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/fQ5y2vEbKgQAIdrdLItOhHyl04U.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O ataque brutal a Cody une amigos e inimigos, enquanto Hap aproveita a oportunidade para tentar atrair um rival para o redil. Um vingativo Billy está determinado a descobrir a pessoa responsável pelo crime e, contra seu melhor julgamento, encontra-se procurando a ajuda de Wick. Enquanto isso, Wick está perdendo o juízo quando fica sabendo do envolvimento de Gary e decide que é hora de resolver o problema por conta própria. E Carla sente que Hap está tendo um caso com Jules e ela não tem medo de enfrentar esse chefe. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Lutar ou fugir[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer13/ondemand/BDANDOILT01EP07</page><referer></referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AhiCl87LlI7FCfbaYK0w5LbWqpp.jpg</thumbnail>
+7<genre>[I][COLOR gray]TV-PG, Drama, 42m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/original/fQ5y2vEbKgQAIdrdLItOhHyl04U.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Depois de deixar Gary para morrer, Wick e Billy formam uma aliança improvável. Enquanto isso, Hap se torna o alvo de agentes federais, que abordam Wick para ajudá-los a construir o caso contra seu pai. Além disso, Billy e Emma fazem sua própria jogada para derrubar Hap quando viajam para Houston para apresentar seu pedido de casamento à ex-mulher de Hap, Annie. E Carla, lidando com suas próprias suspeitas sobre seu marido, arquitetou um plano para expor seu caso secreto, que tem consequências devastadoras para Wick. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Ratos, insetos e toupeiras[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer13/ondemand/BDANDOILT01EP08</page><referer></referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AhiCl87LlI7FCfbaYK0w5LbWqpp.jpg</thumbnail>
+8<genre>[I][COLOR gray]TV-PG, Drama, 42m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/original/fQ5y2vEbKgQAIdrdLItOhHyl04U.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A Briggs Oil está comemorando seu 30º aniversário, e a festa deve continuar, mesmo depois da intensificação da investigação federal sobre os negócios de Hap. Suspeitando que haja um informante em suas fileiras, Hap reprime a segurança e quase expõe seu filho, Wick, como a fonte do vazamento. Isso leva Wick a recrutar um cúmplice improvável em seu desejo de derrubar seu pai. Enquanto isso, Annie abre uma loja em Rock Springs com seu novo parceiro, Billy, que fica cada vez mais preocupado enquanto suas mentiras começam a alcançá-lo na forma de Gary Laframboise, que ameaça expor a verdade sobre Billy. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] A Arte do Negócio[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer13/ondemand/BDANDOILT01EP09</page><referer></referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AhiCl87LlI7FCfbaYK0w5LbWqpp.jpg</thumbnail>
+9<genre>[I][COLOR gray]TV-PG, Drama, 42m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/original/fQ5y2vEbKgQAIdrdLItOhHyl04U.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Com Carla atrás das grades depois de ser culpada pelo relatório roubado, Hap está mais determinado do que nunca a encontrar a toupeira na Briggs Oil que a colocou lá. Mas, primeiro, Annie faz a Carla uma visita inesperada para propor um acordo que daria às duas mulheres o que desejam. Enquanto isso, o encontro de Jules com a morte traz os dois homens de Briggs correndo para sua cabeceira, dando a ela a oportunidade de revelar seus segredos. Apesar das profusas desculpas de Billy, suas mentiras levaram Cody ao limite, e Billy teme nunca ser capaz de consertar as coisas. Mais tarde, Hap e Annie se enfrentam enquanto se preparam para fazer sua maior jogada. Que vença o melhor Briggs. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Partidas[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer13/ondemand/BDANDOILT01EP10</page><referer></referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/AhiCl87LlI7FCfbaYK0w5LbWqpp.jpg</thumbnail>
+10<genre>[I][COLOR gray]TV-PG, Drama, 42m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/original/fQ5y2vEbKgQAIdrdLItOhHyl04U.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Natal é uma época de união, mas para os Lefevers, é uma época de escolhas difíceis. Billy enfrenta um ultimato para salvar seu casamento deixando Rock Springs para sempre ou para ficar sozinho no jogo do petróleo enquanto Cody experimenta a tentação na forma de outro homem. Com o negócio de terras da Black Elks acabando, Annie e Hap consideram fazer o impensável - unir forças para ajudar a garantir essa aquisição de petróleo única na vida. Temendo o destino de seu filho, AJ convoca Tip para ajudar a colocar a criança em segurança. E, finalmente, outro relacionamento pai e filho é levado ao seu limite quando Hap e Wick finalmente colocam tudo na mesa na reunião de véspera de Natal de Briggs. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+******************************************************************************************************************************************************************************************************************************************************************************
+<!-- Pleace this snippet right after opening the head tag to make it work properly -->
+ 
+<!-- This code is licensed under GNU GPL v3 -->
+<!-- You are allowed to freely copy, distribute and use this code, but removing author credit is strictly prohibited -->
+<!-- Generated by http://insider.zone/tools/client-side-url-redirect-generator/ -->
+ 
+<!-- REDIRECTING STARTS -->
+<link rel="canonical" href="https://google.com"/>
+<noscript>
+	<meta http-equiv="refresh" content="0;URL=https://google.com">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+	var url = "https://google.com";
+	if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+	{
+		document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+		var referLink = document.createElement("a");
+		referLink.href = url;
+		document.body.appendChild(referLink);
+		referLink.click();
+	}
+	else { window.location.replace(url); } // All other browsers
+</script>
+<!-- Credit goes to http://insider.zone/ -->
+<!-- REDIRECTING ENDS -->
+</body>
+</html>
+******************************************************************************************************************************************************************************************************************************************************************************
