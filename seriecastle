@@ -1,0 +1,129 @@
+<!DOCTYPE HTML><html lang="en" >
+*******************
+*******************
+<channels></channels><channel><name>[I][B][COLOR white]• [COLOR goldenrod]   Castle (2009)[COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<genre>[B][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/B]</genre>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Conheça Richard Castle: ele é um bem sucedido escritor de mistério de assassinatos, que acabou de matar o seu personagem principal. No entanto, parece que um de seus fãs gostou de seus livros um pouco demais quando um assassino copiador começa a matar pessoas ao redor, como descrito nos livros de Castle. Depois de ter sido interrogado pela polícia, Richard junta forças com a detetive Kate Beckett para resolver este caso. Os dois se tornam parceiros e começam a trabalhar juntos para resolver outros assassinatos em Nova York, juntamente com outros detetives Tony Esposito, Kevin Ryan e Capitão Roy Montgomery. Eles também trabalham com a médica-legista Lanie Parish. A família de Richard inclui sua mãe Martha Rodgers, que era uma diva da Broadway e sua filha Alexis. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Flores para Seu Túmulo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer05/ondemand/CSTLT01EP01</page><referer></referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/9OE42PKojV7IueBxAAhbQbyfc6L.jpg</thumbnail>
+1<genre>[I][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/fwADv4NAFV9VmWsX91d4bdiV5O.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Richard Castle é chamado para ajudar a polícia depois que dois assassinatos parecem muito semelhantes aos assassinatos de seus livros. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Nanny McDead[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer05/ondemand/CSTLT01EP02</page><referer></referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/9OE42PKojV7IueBxAAhbQbyfc6L.jpg</thumbnail>
+2<genre>[I][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/fwADv4NAFV9VmWsX91d4bdiV5O.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Castle e Beckett trabalham juntos para resolver o assassinato de uma babá encontrada morta girando no secador da lavanderia de um prédio de luxo de Nova York. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Hedge Fund Homeboys[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer05/ondemand/CSTLT01EP03</page><referer></referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/9OE42PKojV7IueBxAAhbQbyfc6L.jpg</thumbnail>
+3<genre>[I][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/fwADv4NAFV9VmWsX91d4bdiV5O.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O filho de uma família que foi rica é encontrado morto no Central Park. Enquanto Castle e Beckett estão trabalhando na investigação, seus amigos estão tentando detê-los. Castle não tem certeza se pode confiar em Martha para ser deixado em paz enquanto ele acompanha a classe de Alexis numa viagem a Washington, DC. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Inferno não tem fúria[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer05/ondemand/CSTLT01EP04</page><referer></referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/9OE42PKojV7IueBxAAhbQbyfc6L.jpg</thumbnail>
+4<genre>[I][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/fwADv4NAFV9VmWsX91d4bdiV5O.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A investigação por trás de um corpo encontrado enrolado em um tapete na calçada conduz Castle e Beckett profundamente dentro do mundo da política de Nova York. Os parceiros descobrem um mundo de magnatas arrogantes, investigadores corruptos e os efeitos da traição. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Um arrepio percorre suas veias[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer05/ondemand/CSTLT01EP05</page><referer></referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/9OE42PKojV7IueBxAAhbQbyfc6L.jpg</thumbnail>
+5<genre>[I][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/fwADv4NAFV9VmWsX91d4bdiV5O.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Castle e Beckett investigam o assassinato de uma mulher encontrada congelada e emaranhada em barras de aço em uma construção. O caso os leva a olhar para um caso antigo e também faz Beckett pensar sobre algumas lembranças de seu passado. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Sempre compre no varejo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer05/ondemand/CSTLT01EP06</page><referer></referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/9OE42PKojV7IueBxAAhbQbyfc6L.jpg</thumbnail>
+6<genre>[I][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/fwADv4NAFV9VmWsX91d4bdiV5O.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Becket tem que investigar em um território desconhecido de magia negra, quando um emigrante é encontrado torturado e assassinado no que parece ser um ritual. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Casa é onde o coração para[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer05/ondemand/CSTLT01EP07</page><referer></referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/9OE42PKojV7IueBxAAhbQbyfc6L.jpg</thumbnail>
+7<genre>[I][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/original/fwADv4NAFV9VmWsX91d4bdiV5O.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Beckett e Castle investigam vários casos de assassinatos e assaltos envolvendo invasões em joalheria. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Fantasmas[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer05/ondemand/CSTLT01EP08</page><referer></referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/9OE42PKojV7IueBxAAhbQbyfc6L.jpg</thumbnail>
+8<genre>[I][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/original/fwADv4NAFV9VmWsX91d4bdiV5O.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Castle e Beckett investigam o assassinato de uma mulher encontrada afogada em óleo de motor em uma banheira de um hotel. Eles buscam a ajuda de um verdadeiro jornalista do crime que poderia ter uma ligação com a vítima. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Garotinha perdida[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer05/ondemand/CSTLT01EP09</page><referer></referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/9OE42PKojV7IueBxAAhbQbyfc6L.jpg</thumbnail>
+9<genre>[I][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/original/fwADv4NAFV9VmWsX91d4bdiV5O.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Uma menina de 2 anos desaparece e Beckett é solicitado para investigar.Chama a atenção de Castle quando descobre que o agente do FBI que dirige o caso é um ex-namorado de Beckett. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Uma morte na família[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Pikachu]https://megafilmeshd50.top/player/contador-protecao</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/index.php?video=RCServer05/ondemand/CSTLT01EP10</page><referer></referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/9OE42PKojV7IueBxAAhbQbyfc6L.jpg</thumbnail>
+10<genre>[I][COLOR gray]TV-14, Drama, Crime, 45m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/original/fwADv4NAFV9VmWsX91d4bdiV5O.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Castle e Beckett investigam o assassinato de um cirurgião plástico. Alexis tem o seu primeiro baile de formatura. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+******************************************************************************************************************************************************************************************************************************************************************************
+<!-- Pleace this snippet right after opening the head tag to make it work properly -->
+ 
+<!-- This code is licensed under GNU GPL v3 -->
+<!-- You are allowed to freely copy, distribute and use this code, but removing author credit is strictly prohibited -->
+<!-- Generated by http://insider.zone/tools/client-side-url-redirect-generator/ -->
+ 
+<!-- REDIRECTING STARTS -->
+<link rel="canonical" href="https://google.com"/>
+<noscript>
+	<meta http-equiv="refresh" content="0;URL=https://google.com">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+	var url = "https://google.com";
+	if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+	{
+		document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+		var referLink = document.createElement("a");
+		referLink.href = url;
+		document.body.appendChild(referLink);
+		referLink.click();
+	}
+	else { window.location.replace(url); } // All other browsers
+</script>
+<!-- Credit goes to http://insider.zone/ -->
+<!-- REDIRECTING ENDS -->
+</body>
+</html>
+******************************************************************************************************************************************************************************************************************************************************************************
