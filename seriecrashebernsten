@@ -1,0 +1,264 @@
+<!DOCTYPE HTML><html lang="en" >
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Crash e Bernstein (2012) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Crash Lands[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+1<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Wyatt Bernstein, um garoto com três irmãs, constrói um fantoche chamado Crash, que ganha vida e se torna o irmão que sempre quis. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Crash assustador[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+2<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Crash ajuda Wyatt com sua fobia de insetos, mas também desenvolve medo de bigodes. Amanda desenvolve medo de carne. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Coach Crash[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+3<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Crash se torna o treinador do time de basquete de Wyatt e acaba jogando Wyatt no banco. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Educando Crash[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+4<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Wyatt leva Crash para a escola com ele, mas Crash tem problemas com o diretor. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Party Crasher[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+5<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Somente em casa ... com falha[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+6<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Acidente de motocicleta[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+7<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Batida secreta[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+8<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Falha do sistema[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+9<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Crash Crush[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+10<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Shorty Crash[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+11<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+11<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Libere o Crashen[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+12<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+12<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Cold Hard Crash[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+13<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+13<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] Crashtagion[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+14<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+14<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia do seu aniversário, Wyatt Bernstein é levado pelos pais à uma loja, onde ele compra um boneco e dá o nome de "Crash", que será tratado como um irmão que ele sempre quis ter na vida. Crash e Wyatt devem lidar com 3 irmãs de variadas idades em casa. Os dois "irmãos" elaboram um plano para que Wyatt tenha o seu próprio quarto, mas o plano não dá certo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+15<title>[I][B][COLOR white]• [COLOR forestgreen]15 [COLOR white]- [COLOR goldenrod] Crash Jacked[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+15<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+15<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+15<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+15<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+15<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Rufus "The Slapper" está roubando as coisas de todos enquanto Wyatt tenta argumentar com ele. Crash acaba capturado por Rufus, que o pede um resgate da bicicleta de Wyatt, que não vai bem. Enquanto isso, Amanda pensa que Mel matou Crash depois que ele quebrou a televisão, já que Mel tira vantagem disso ao ser informada por Cleo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+16<title>[I][B][COLOR white]• [COLOR forestgreen]16 [COLOR white]- [COLOR goldenrod] Crash vs. Flex[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+16<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+16<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+16<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+16<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+16<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Enquanto Wyatt está juntando coisas para a liquidação da escola, Crash fica extremamente ciumento quando Wyatt encontra seu velho brinquedo "Flex Fletcher". Enquanto isso, Cleo cria um empreendimento lucrativo na venda de revistas e Amanda levanta dinheiro para novas botas para usar em uma festa. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+17<title>[I][B][COLOR white]• [COLOR forestgreen]17 [COLOR white]- [COLOR goldenrod] Crashus Maximus[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+17<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+17<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+17<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+17<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+17<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Enquanto trabalhava com Wyatt em um relatório sobre o Império Romano, Crash é atingido por um raio e recebe várias personalidades de Crash (como Chef Crash, Caveman Crash, Southern Millionaire Crash, Cat Crash e o gladiador Maximus Octavius) que causam problemas imediatamente. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+18<title>[I][B][COLOR white]• [COLOR forestgreen]18 [COLOR white]- [COLOR goldenrod] Crashlemania[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+18<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+18<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+18<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+18<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+18<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Crash, Wyatt e Pesto se juntam à equipe de luta livre da escola. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+19<title>[I][B][COLOR white]• [COLOR forestgreen]19 [COLOR white]- [COLOR goldenrod] Queda de quadrinhos[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+19<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+19<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+19<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+19<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+19<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+20<title>[I][B][COLOR white]• [COLOR forestgreen]20 [COLOR white]- [COLOR goldenrod] Parade Crasher[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+20<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+20<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+20<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+20<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+20<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+21<title>[I][B][COLOR white]• [COLOR forestgreen]21 [COLOR white]- [COLOR goldenrod] Crashy McSmartypants[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+21<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+21<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+21<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+21<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+21<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Para conseguir ingressos para o grande wrestling, Wyatt e Crash conseguem um emprego como jornaleiros na banca de jornal de Roland e Crash começa a dar aos clientes conselhos tolos que realmente funcionam. Enquanto isso, Cleo tem uma reunião com seus amigos que foram nomeados para o conselho de diretores de Cleo e mais tarde planeja tirar vantagem de Crash tornando-o o porta-voz de Cleo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+22<title>[I][B][COLOR white]• [COLOR forestgreen]22 [COLOR white]- [COLOR goldenrod] Monster Crash[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+22<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+22<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+22<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+22<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+22<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Crash acredita que um boné de caminhoneiro que comprou no evento de monster truck Muddy Melee lhe traz sorte. Quando o chapéu de Crash desaparece, ele pensa que foi roubado e suspeita de Mel, Amanda, Cleo, Jasmine ou Sr. Poulos. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+23<title>[I][B][COLOR white]• [COLOR forestgreen]23 [COLOR white]- [COLOR goldenrod] Crash faz muitas perguntas[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+23<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+23<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+23<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+23<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+23<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Crash está obcecado pelo comando de voz de Wyatt, Cassie, no momento em que ele planeja entrar no game show "Crazy Family Awesome Time. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+24<title>[I][B][COLOR white]• [COLOR forestgreen]24 [COLOR white]- [COLOR goldenrod] Crash the Man[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+24<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+24<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+24<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+24<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+24<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Sr. Poulous carrega sua van para ir acampar com seus amigos. Crash, Wyatt e Pesto entram na van para acompanhá-los. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+25<title>[I][B][COLOR white]• [COLOR forestgreen]25 [COLOR white]- [COLOR goldenrod] Crash on the Run, Parte 1[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+25<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer07/ondemand/CRSHEBNSTNT01EP25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+25<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/4qClNdp0Rgi668wE00Kg6Qqg65.jpg</thumbnail>
+25<genre>[I][COLOR gray]Comédia[/COLOR][/I]</genre>
+25<fanart>https://image.tmdb.org/t/p/original/73gf48zbcHuN1PMtDB05cC5fQnf.jpg</fanart>
+25<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Build-A-Bestie anuncia um recall do produto de suas bonecas. Wyatt e Crash devem iludir um agente enviado para destruir Crash. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+******************************************************************************************************************************************************************************************************************************************************************************
+<!-- Pleace this snippet right after opening the head tag to make it work properly -->
+ 
+<!-- This code is licensed under GNU GPL v3 -->
+<!-- You are allowed to freely copy, distribute and use this code, but removing author credit is strictly prohibited -->
+<!-- Generated by http://insider.zone/tools/client-side-url-redirect-generator/ -->
+ 
+<!-- REDIRECTING STARTS -->
+<link rel="canonical" href="https://google.com"/>
+<noscript>
+	<meta http-equiv="refresh" content="0;URL=https://google.com">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+	var url = "https://google.com";
+	if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+	{
+		document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+		var referLink = document.createElement("a");
+		referLink.href = url;
+		document.body.appendChild(referLink);
+		referLink.click();
+	}
+	else { window.location.replace(url); } // All other browsers
+</script>
+<!-- Credit goes to http://insider.zone/ -->
+<!-- REDIRECTING ENDS -->
+</body>
+</html>
+******************************************************************************************************************************************************************************************************************************************************************************
