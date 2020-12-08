@@ -1,4 +1,5 @@
-<item> 
+<channels>
+</channels><channel><item>
 <title>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</title> 
 <link>here</link> 
 <thumbnail>https://i.postimg.cc/JzXQWYFz/CANAIS-TV-ABERTOS.jpg</thumbnail> 
@@ -118,7 +119,8 @@
 <info></info>
 </item> 
 
-<item>
+<channels>
+</channels><channel><item>
 <title>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</title> 
 <link>here</link>
 <thumbnail>https://i.postimg.cc/d0mmhkwM/DOCUMENTARIOS.jpg</thumbnail>
@@ -152,7 +154,8 @@
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/discovery_channel.png</thumbnail>
 </item>
 
-<item>
+<channels>
+</channels><channel>
 <title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR][/B]</title>
 <link>$doregex[gaviaoplayo_Ch]</link>
 <regex>
@@ -264,7 +267,8 @@
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/natgeo_wild.png</thumbnail>
 </item>
 
-<item>
+<channels>
+</channels><channel><item>
 <title>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ESPORTES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</title> 
 <link>here</link>
 <thumbnail>https://i.postimg.cc/3wHFrCMC/ESPORTES.jpg</thumbnail>
@@ -550,7 +554,8 @@
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/premiere.png</thumbnail>
 </item>
 
-<item>
+<channels>
+</channels><channel><item>
 <title>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES&SÉRIES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</title> 
 <link>here</link>
 <thumbnail>https://i.postimg.cc/1tvGKk8J/FILMES-E-SERIES.jpg</thumbnail>
@@ -1059,8 +1064,8 @@
 <fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/warner_channel.png</thumbnail>
 </item>
-
-<item>
+<channels>
+</channels><channel><item><item>
 <title>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]INFANTIL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</title> 
 <link>here</link>
 <thumbnail>https://i.postimg.cc/sx1pHTSy/INFANTIL.jpg</thumbnail>
@@ -1262,7 +1267,8 @@
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/zoomoo.png</thumbnail>
 </item>
 
-<item>
+<channels>
+</channels><channel><item>
 <title>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MUSICAS E VARIEDADES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</title> 
 <link>here</link>
 <thumbnail>https://i.postimg.cc/zBzwKzGy/MUSICAS-E-VARIEDADES.jpg</thumbnail>
@@ -1464,7 +1470,8 @@
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/tlc.png</thumbnail>
 </item>
 
-<item>
+<channels>
+</channels><channel><item>
 <title>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]NOTÍCIAS/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</title> 
 <link>here</link>
 <thumbnail>https://i.postimg.cc/d3XGbGmC/NOTICIAS.jpg</thumbnail>
